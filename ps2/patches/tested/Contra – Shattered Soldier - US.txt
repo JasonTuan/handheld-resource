@@ -1,0 +1,71 @@
+//Infinite Lives Player 1
+patch=1,EE,109128C0,extended,00000063
+author=Code Master
+
+//Invincible Player 1
+patch=1,EE,00912584,extended,000000FF
+author=Code Master
+
+//Max Score Player 1
+patch=1,EE,209128C4,extended,0098967F
+author=Code Master
+
+//Moon Jump Player 1
+patch=1,EE,D07C4A82,extended,0000BFFF
+patch=1,EE,209126C0,extended,42200000
+patch=1,EE,D07C4A82,extended,00003FFF
+patch=1,EE,209126C0,extended,42200000
+author=Code Master
+
+
+//Infinite Lives Player 2
+patch=1,EE,109128D0,extended,00000063
+author=Code Master
+
+//Invincible Player 2
+patch=1,EE,00912734,extended,000000FF
+author=Code Master
+
+//Max Score Player 2
+patch=1,EE,209128D4,extended,0098967F
+author=Code Master
+
+//Moon Jump Player 2
+patch=1,EE,D07C4C02,extended,0000BFFF
+patch=1,EE,20912870,extended,42200000
+patch=1,EE,D07C4C02,extended,00003FFF
+patch=1,EE,20912870,extended,42200000
+author=Code Master
+
+
+//Have Level Completed 001-Fortress
+patch=1,EE,209124F8,extended,00000007
+author=Code Master
+
+//Have Level Completed 002-Train
+patch=1,EE,209124FC,extended,00000007
+author=Code Master
+
+//Have Level Completed 003-City
+patch=1,EE,20912500,extended,00000007
+author=Code Master
+
+//Have Level Completed 004-Seabed
+patch=1,EE,20912504,extended,00000007
+author=Code Master
+
+//Have Level Completed 005-Archipelago
+patch=1,EE,20912508,extended,00000007
+author=Code Master
+
+//End Of Level Stat Max Hit Rate
+patch=1,EE,20912514,extended,00000064
+author=Code Master
+
+//End Of Level Stat No Continues
+patch=1,EE,20912520,extended,00000000
+author=Code Master
+
+//End Of Level Stat No Lost Remaining Life
+patch=1,EE,2091251C,extended,00000000
+author=Code Master

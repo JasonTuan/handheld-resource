@@ -1,0 +1,32 @@
+// max money
+patch=1,EE,201E82CC,extended,00000000
+
+// enable code
+patch=1,EE,F028FE88,extended,0028FE8B
+
+// max xp
+patch=1,EE,201F314C,extended,00000000
+
+// max K.O
+patch=1,EE,201DB1C0,extended,00000000
+
+// max combo
+patch=1,EE,201E80C0,extended,00000000
+
+// all item
+patch=1,EE,4051A520,extended,002E0001
+patch=1,EE,E4E4E4E4,extended,00000000
+
+// all senjata
+patch=1,EE,404F1CC8,extended,001E0567
+patch=1,EE,E4E4E4E4,extended,00000000
+patch=1,EE,404F1CCC,extended,001E0567
+patch=1,EE,E4E4E4E4,extended,00000000
+
+// all armor
+patch=1,EE,404F1CD0,extended,001E0567
+patch=1,EE,E4E4E400,extended,00000000
+
+// costum
+patch=1,EE,404F1CDC,extended,001E0567
+patch=1,EE,00008181,extended,00000000
